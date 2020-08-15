@@ -1,2 +1,2 @@
 # Electricity Bill
-Java program to create a Electricity Bill with added tax and discount.
+Java program to create an Electricity Bill with added tax and discount.
